@@ -1,6 +1,6 @@
 # arduino_slider
-codigo para un slider hecho con arduino
-El código permite configurar el slider para los siguientes pasos.<br>
+codigo para un slider hecho con arduino, en principio para controlarlo como time lapse, pero con posibles mejoras
+El código permite configurar el slider en modo time laspse para los siguientes pasos.<br>
 <br>
 Pasos en cada bucle<br>
 1.-  Mover el motor.<br><br>
@@ -28,3 +28,9 @@ Pasos en cada bucle<br>
 
 # cosas que faltan por hacer
 - Añadir 500ms al disparador entre el e nfocar y el disparo<br>
+
+# Mejoras
+- Menu principal
+-->Movimiento libre
+-->Movimiento video
+-->Movimiento Time Lapse
