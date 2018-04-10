@@ -4,9 +4,9 @@ El código permite configurar el slider en modo time laspse para los siguientes 
 <br>
 Pasos en cada bucle<br>
 1.-  Mover el motor.<br><br>
-2a.- Con disparador SONY<br>
+2a.- Sin disparador SONY<br>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 2a.1.- Tiempo de espera.<br><br>
-2b.- Sin disparador SONY<br>
+2b.- Con disparador SONY<br>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 2b.1.- Tiempo de espera offset.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 2b.2.- Disparar camara.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 2b.3.- Tiempo restante.<br>
