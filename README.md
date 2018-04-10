@@ -28,7 +28,7 @@ Pasos en cada bucle<br>
 
 # cosas que faltan por hacer
 - Añadir 500ms al disparador entre el e nfocar y el disparo<br>
-
+- Añadir 3 leds de: Moviendo, Esperando, disparando (así podemos utilizar la pantalla para mostrar informacion de tiempo restante.<br>
 # Mejoras
 - Menu principal<br>
 -->Movimiento libre<br>
