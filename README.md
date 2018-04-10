@@ -30,12 +30,23 @@ Pasos en cada bucle<br>
 - Añadir 500ms al disparador entre el e nfocar y el disparo<br>
 
 # Mejoras
-- Menu principal<
+- Menu principal<br>
 -->Movimiento libre<br>
 -->Movimiento video<br>
 &nbsp;&nbsp;&nbsp;&nbsp; Selección posicion inicial.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; Selección posición final.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; Selección duración en segundos. (lo que ha tardado minimo)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; Loop --> ir y volver.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Loop --> ir y volver repetidamente.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; Inicio --> si no hay loop pregunta si quieres repetir la toma, puedes cambiar la duración en segundos.<br><br>
 -->Movimiento Time Lapse<br>
+Mejoras<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Selección posición inicial.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Selección posición final.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Seleccionar número de fotos e intervalo entre fotos (calcular el tiempo de grabación y el tiempo pelicula final.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Loop --> ir y volver solo 1 vez.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; pulsar inicio --> Indica las imagenes y tiempo que falta tiempo queda. La secuencia es la siguiente:
+El slider y/o el motor de paneo se moverán y se pararan.<br>
+Esperan un tiempo de 0.7s para que todo se quede perfectamente quieto (se puede configurar)<br>
+El controlador envía la señal a la cámara para que tome la foto(El tiempo de exposición debe ser configurado en la cámara).<br>
+Pausa otra vez hasta que se complete el tiempo del intervalo que se haya marcado.<br>
+
