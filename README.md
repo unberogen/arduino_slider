@@ -30,7 +30,12 @@ Pasos en cada bucle<br>
 - Añadir 500ms al disparador entre el e nfocar y el disparo<br>
 
 # Mejoras
-- Menu principal
--->Movimiento libre
--->Movimiento video
--->Movimiento Time Lapse
+- Menu principal<
+-->Movimiento libre<br>
+-->Movimiento video<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Selección posicion inicial.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Selección posición final.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Selección duración en segundos. (lo que ha tardado minimo)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Loop --> ir y volver.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Inicio --> si no hay loop pregunta si quieres repetir la toma, puedes cambiar la duración en segundos.<br><br>
+-->Movimiento Time Lapse<br>
