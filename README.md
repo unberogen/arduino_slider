@@ -1,8 +1,8 @@
 # arduino_slider
 codigo para un slider hecho con arduino
-El código permite configurar el slider para los siguientes pasos.
-
-Pasos en cada bucle
+El código permite configurar el slider para los siguientes pasos.<br>
+<br>
+Pasos en cada bucle<br>
 1.-  Mover el motor.
 2a.- Con disparador SONY
       2a.1.- Tiempo de espera.
