@@ -1,0 +1,14 @@
+slider v1
+R11_tr_focus 17 11 220
+R7_boton_OK 0 5 220
+R15_led_espera 14 18 220
+R12_tr_disp 7 15 220
+R14_led_mov 16 19 220
+R13_led_disp 7 13 220
+R9_boton_DE 0 21 220
+R10_Led_focus 9 17 220
+R8_botonIZ 0 6 220
+
+.TRAN 1ms 100ms
+* .AC DEC 100 100 1MEG
+.END
